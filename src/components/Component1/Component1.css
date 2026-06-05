@@ -1,0 +1,11 @@
+.helloBtn {
+    width: 200px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    background-color: aquamarine;
+    color: red;
+}
+.component1 {
+    text-align: center;
+}
